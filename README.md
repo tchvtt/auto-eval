@@ -46,7 +46,7 @@ Soutric Tanguy
 
 | Critère | Évaluation | Justification |
 |---------|------------|---------------|
-| L'application utilise le design pattern MVC pour chaque fonctionnalité. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ✅ | Chaque fonctionnalité suit l'architecture MVC avec une séparation claire des couches. |
+| L'application utilise le design pattern MVC pour chaque fonctionnalité. | ✅ | Chaque fonctionnalité suit l'architecture MVC avec une séparation claire des couches. |
 | Les contrôleurs utilisent les méthodes HTTP : GET, POST, PUT, DELETE. | ✅ | Les contrôleurs exploitent les méthodes HTTP en fonction des actions (exemple : création avec POST, suppression avec DELETE). |
 | Chaque vue manipule des données transmises par son contrôleur. | ✅ | Les vues affichent dynamiquement les données transmises via les modèles des contrôleurs. |
 
@@ -55,7 +55,7 @@ Soutric Tanguy
 | Critère | Évaluation | Justification |
 |---------|------------|---------------|
 | L'application est jolie / utilise un framework CSS. | ✅ | Tailwind CSS a été utilisé pour créer une interface utilisateur minimaliste et simple à utiliser pour garantir la meilleur expérience utilisateur possible. |
-| Le code source est livré dans un repo GitHub/GitLab. Il est de bonne qualité. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ✅ | Le projet est hébergé sur GitHub avec un code organisé et des commentaires explicatifs. |
+| Le code source est livré dans un repo GitHub/GitLab. Il est de bonne qualité. | ✅ | Le projet est hébergé sur GitHub avec un code organisé et des commentaires explicatifs. |
 | Le repo comporte des commits réguliers de chaque membre du groupe. | ⚠️ | Bien que les commits soient réguliers, ils proviennent principalement de quelques membres actifs. |
 
 ---
